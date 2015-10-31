@@ -1,0 +1,10 @@
+"*":
+  "exception-reporting":
+    userId: "1e7c07c8-1053-b7ce-5301-22ffda685250"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+  "one-dark-ui": {}
+  linter: {}
