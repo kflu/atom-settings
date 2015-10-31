@@ -6,3 +6,5 @@ dev
 .apm
 node_modules
 packages
+*~
+*.swp
