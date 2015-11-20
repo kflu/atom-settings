@@ -4,3 +4,4 @@ atom-ternjs
 linter-jshint
 docblockr
 jumpy
+language-powershell

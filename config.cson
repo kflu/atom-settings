@@ -8,6 +8,7 @@
     invisibles: {}
     fontSize: 13
     tabLength: 4
+    showIndentGuide: true
   "one-dark-ui":
     layoutMode: "Compact"
   linter: {}
