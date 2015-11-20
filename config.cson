@@ -8,3 +8,5 @@
     invisibles: {}
   "one-dark-ui": {}
   linter: {}
+  minimap:
+    displayPluginsControls: false
