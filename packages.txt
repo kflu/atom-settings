@@ -1,3 +1,6 @@
 linter
 minimap
 atom-ternjs
+linter-jshint
+docblockr
+jumpy

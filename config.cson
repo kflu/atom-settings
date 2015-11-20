@@ -7,8 +7,12 @@
   editor:
     invisibles: {}
     fontSize: 13
+    tabLength: 4
   "one-dark-ui":
     layoutMode: "Compact"
   linter: {}
   minimap:
     displayPluginsControls: false
+  jumpy:
+    fontSize: 1
+    highContrast: true
