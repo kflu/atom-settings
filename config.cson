@@ -6,7 +6,9 @@
   core: {}
   editor:
     invisibles: {}
-  "one-dark-ui": {}
+    fontSize: 13
+  "one-dark-ui":
+    layoutMode: "Compact"
   linter: {}
   minimap:
     displayPluginsControls: false
