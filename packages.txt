@@ -6,3 +6,4 @@ docblockr
 jumpy
 language-powershell
 file-icons
+highlight-selected
