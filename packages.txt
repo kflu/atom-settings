@@ -1,9 +1,0 @@
-linter
-minimap
-atom-ternjs
-linter-jshint
-docblockr
-jumpy
-language-powershell
-file-icons
-highlight-selected
