@@ -5,3 +5,4 @@ linter-jshint
 docblockr
 jumpy
 language-powershell
+file-icons
