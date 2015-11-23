@@ -6,9 +6,9 @@
   core: {}
   editor:
     invisibles: {}
-    fontSize: 13
     tabLength: 4
     showIndentGuide: true
+    fontSize: 11
   "one-dark-ui":
     layoutMode: "Compact"
   linter: {}
@@ -18,3 +18,4 @@
     fontSize: 1
     highContrast: true
   "highlight-selected": {}
+  docblockr: {}
