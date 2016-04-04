@@ -1,7 +1,7 @@
 ["linter",
 "minimap",
 "atom-ternjs",
-"linter-jshint",
+"linter-eslint",
 "docblockr",
 "jumpy",
 "language-powershell",
